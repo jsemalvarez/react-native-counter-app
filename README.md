@@ -1,2 +1,17 @@
-# react-native-counter-app
-Primeras experiencias con React Native para crear una aplicación simple que nos de la noción de cómo trabajar en este framework
+# CounterApp
+Conceptos que se implementan:
+ - Hola Mundo en React Native
+ - Cambios en el State
+ - Contador
+ - Re-utilización de componentes
+ - Pantallas
+ - Componentes personalizados
+ - Stylesheet
+ - Envío de argumentos a componentes
+ - Tipando props
+ - Componentes como:
+    - View
+    - Text
+    - TouchableOpacity
+    - TouchableNativeFeedback
+    - TouchableWithoutFeedback
