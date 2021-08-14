@@ -15,3 +15,13 @@ Conceptos que se implementan:
     - TouchableOpacity
     - TouchableNativeFeedback
     - TouchableWithoutFeedback
+
+
+## NOTA:
+   El proyecto esta hecho con typescript
+
+## COMANDOS 
+Para ver en el dispositivo virtual o/y fisico 
+```
+   npx react-native run-android
+```
