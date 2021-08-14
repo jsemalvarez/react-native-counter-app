@@ -15,3 +15,9 @@ Conceptos que se implementan:
     - TouchableOpacity
     - TouchableNativeFeedback
     - TouchableWithoutFeedback
+
+## COMANDOS 
+Para ver en el dispositivo virtual o/y fisico 
+```
+   npx react-native run-android
+```
